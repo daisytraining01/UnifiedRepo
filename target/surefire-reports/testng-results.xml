@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG Suite" duration-ms="44794" started-at="2020-06-29T15:06:50 IST" finished-at="2020-06-29T15:07:35 IST">
+    <groups>
+    </groups>
+    <test name="TestNG Test1" duration-ms="44794" started-at="2020-06-29T15:06:50 IST" finished-at="2020-06-29T15:07:35 IST">
+      <class name="com.CucumberRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.CucumberRunner@12ff811]" name="setUpClass" is-config="true" duration-ms="387" started-at="2020-06-29T15:06:50 IST" finished-at="2020-06-29T15:06:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setTestName(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.CucumberRunner@12ff811]" name="setTestName" is-config="true" duration-ms="4" started-at="2020-06-29T15:06:51 IST" finished-at="2020-06-29T15:06:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.maveric.core.cucumber.CucumberBaseTest.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@f43aa3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestName -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberRunner@12ff811]" name="scenario" duration-ms="8353" started-at="2020-06-29T15:06:51 IST" data-provider="scenarios" finished-at="2020-06-29T15:06:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Get and Update User Details"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[API demo Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.CucumberRunner@12ff811]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-06-29T15:07:00 IST" finished-at="2020-06-29T15:07:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Get and Update User Details status=SUCCESS method=CucumberBaseTest.scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberRunner@12ff811] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberRunner@12ff811]" name="scenario" duration-ms="6238" started-at="2020-06-29T15:07:00 IST" data-provider="scenarios" finished-at="2020-06-29T15:07:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Create and Delete User"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[API demo Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="setTestName(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.CucumberRunner@12ff811]" name="setTestName" is-config="true" duration-ms="0" started-at="2020-06-29T15:07:00 IST" finished-at="2020-06-29T15:07:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.maveric.core.cucumber.CucumberBaseTest.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1fd4873]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestName -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.CucumberRunner@12ff811]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-06-29T15:07:07 IST" finished-at="2020-06-29T15:07:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Create and Delete User status=SUCCESS method=CucumberBaseTest.scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberRunner@12ff811] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setTestName(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.CucumberRunner@12ff811]" name="setTestName" is-config="true" duration-ms="0" started-at="2020-06-29T15:07:07 IST" finished-at="2020-06-29T15:07:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.maveric.core.cucumber.CucumberBaseTest.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@11bc55]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestName -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberRunner@12ff811]" name="scenario" duration-ms="11420" started-at="2020-06-29T15:07:07 IST" data-provider="scenarios" finished-at="2020-06-29T15:07:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User Should Not be able to login with invalid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Demo Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.CucumberRunner@12ff811]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-06-29T15:07:19 IST" finished-at="2020-06-29T15:07:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=User Should Not be able to login with invalid credentials status=SUCCESS method=CucumberBaseTest.scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberRunner@12ff811] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setTestName(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.CucumberRunner@12ff811]" name="setTestName" is-config="true" duration-ms="1" started-at="2020-06-29T15:07:19 IST" finished-at="2020-06-29T15:07:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.maveric.core.cucumber.CucumberBaseTest.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@144a1e4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestName -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberRunner@12ff811]" name="scenario" duration-ms="14904" started-at="2020-06-29T15:07:19 IST" data-provider="scenarios" finished-at="2020-06-29T15:07:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User Should be able to login with valid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Demo Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.CucumberRunner@12ff811]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-06-29T15:07:35 IST" finished-at="2020-06-29T15:07:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=User Should be able to login with valid credentials status=SUCCESS method=CucumberBaseTest.scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberRunner@12ff811] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.CucumberRunner@12ff811]" name="tearDownClass" is-config="true" duration-ms="95" started-at="2020-06-29T15:07:35 IST" finished-at="2020-06-29T15:07:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.CucumberRunner -->
+    </test> <!-- TestNG Test1 -->
+  </suite> <!-- TestNG Suite -->
+</testng-results>

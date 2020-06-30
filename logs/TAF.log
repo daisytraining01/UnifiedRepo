@@ -1,0 +1,639 @@
+2020-06-26 11:17:02.788 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-26 11:17:02.802 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-26 11:17:02.802 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-26 11:17:02.823 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-26_Jun_2020_11_17_02_AM
+2020-06-26 11:17:03.759 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2020-06-26 11:17:07.312 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-26 11:17:17.056 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-26 11:17:17.057 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2020-06-26 11:17:17.057 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START User Should be able to login with valid credentials
+2020-06-26 11:17:19.833 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-26 11:17:28.998 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-26 11:17:28.998 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2020-06-26 11:19:28.380 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-26 11:19:28.386 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-26 11:19:28.386 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-26 11:19:28.389 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-26_Jun_2020_11_19_28_AM
+2020-06-26 11:19:29.325 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2020-06-26 11:19:32.575 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-26 11:19:40.694 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-26 11:19:40.694 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2020-06-26 11:19:40.695 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START User Should be able to login with valid credentials
+2020-06-26 11:19:43.492 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-26 11:19:52.823 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-26 11:19:52.823 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2020-06-26 11:35:00.034 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-26 11:35:00.040 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-26 11:35:00.040 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-26 11:35:00.042 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-26_Jun_2020_11_35_00_AM
+2020-06-26 11:35:01.133 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2020-06-26 11:35:04.170 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-26 11:35:12.629 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-26 11:35:12.630 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2020-06-26 11:35:12.630 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START User Should be able to login with valid credentials
+2020-06-26 11:35:15.678 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-26 11:35:25.895 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-26 11:35:25.896 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2020-06-26 11:54:43.714 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-26 11:54:43.718 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-26 11:54:43.718 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-26 11:55:01.043 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-26_Jun_2020_11_55_01_AM
+2020-06-26 11:55:01.481 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2020-06-26 11:55:05.551 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-26 11:55:14.445 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-26 11:55:14.446 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2020-06-26 11:55:14.446 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START User Should be able to login with valid credentials
+2020-06-26 11:55:17.264 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-26 11:55:27.172 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-26 11:55:27.173 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2020-06-29 14:16:43.977 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-29 14:16:43.999 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-29 14:16:43.999 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-29 14:16:46.985 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-29_Jun_2020_02_16_46_PM
+2020-06-29 14:16:47.782 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2020-06-29 14:16:54.059 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 14:17:03.727 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 14:17:03.728 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2020-06-29 14:17:03.728 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START User Should be able to login with valid credentials
+2020-06-29 14:17:06.435 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 14:17:15.548 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 14:17:15.549 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2020-06-29 15:03:58.005 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-29 15:03:58.010 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-29 15:03:58.010 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-29 15:03:59.110 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-29_Jun_2020_03_03_59_PM
+2020-06-29 15:03:59.499 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2020-06-29 15:04:02.792 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 15:04:14.815 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 15:04:14.816 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2020-06-29 15:04:14.816 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START User Should be able to login with valid credentials
+2020-06-29 15:04:18.257 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 15:04:27.319 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 15:04:27.320 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2020-06-29 15:05:32.463 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-29 15:05:32.468 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-29 15:05:32.468 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-29 15:05:33.535 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-29_Jun_2020_03_05_33_PM
+2020-06-29 15:05:33.934 [TestNG-test=Cucumber API Test-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START Get and Update User Details
+2020-06-29 15:05:37.829 [TestNG-test=Cucumber API Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 15:05:39.390 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Get connection for route {s}->https://reqres.in:443
+2020-06-29 15:05:39.698 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to reqres.in:443
+2020-06-29 15:05:40.666 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: ignoreCookies
+2020-06-29 15:05:40.667 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+2020-06-29 15:05:40.667 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+2020-06-29 15:05:40.667 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+2020-06-29 15:05:40.668 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Attempt 1 to execute request
+2020-06-29 15:05:40.668 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Sending request: GET /api/users/1 HTTP/1.1
+2020-06-29 15:05:40.668 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "GET /api/users/1 HTTP/1.1[\r][\n]"
+2020-06-29 15:05:40.669 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Accept: */*[\r][\n]"
+2020-06-29 15:05:40.669 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Host: reqres.in[\r][\n]"
+2020-06-29 15:05:40.669 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Connection: Keep-Alive[\r][\n]"
+2020-06-29 15:05:40.670 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)[\r][\n]"
+2020-06-29 15:05:40.670 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-06-29 15:05:40.670 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "[\r][\n]"
+2020-06-29 15:05:40.670 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> GET /api/users/1 HTTP/1.1
+2020-06-29 15:05:40.670 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Accept: */*
+2020-06-29 15:05:40.670 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Host: reqres.in
+2020-06-29 15:05:40.670 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Connection: Keep-Alive
+2020-06-29 15:05:40.670 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)
+2020-06-29 15:05:40.670 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+2020-06-29 15:05:40.932 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "HTTP/1.1 200 OK[\r][\n]"
+2020-06-29 15:05:40.933 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Date: Mon, 29 Jun 2020 09:38:15 GMT[\r][\n]"
+2020-06-29 15:05:40.933 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2020-06-29 15:05:40.933 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Transfer-Encoding: chunked[\r][\n]"
+2020-06-29 15:05:40.933 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Connection: keep-alive[\r][\n]"
+2020-06-29 15:05:40.933 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Set-Cookie: __cfduid=d5f564c7b5a1c731b69ffc27e43af29001593423495; expires=Wed, 29-Jul-20 09:38:15 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure[\r][\n]"
+2020-06-29 15:05:40.933 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "X-Powered-By: Express[\r][\n]"
+2020-06-29 15:05:40.933 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2020-06-29 15:05:40.934 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Etag: W/"172-2ZZzAny/UrOMYxwGqcj81wSK1S4"[\r][\n]"
+2020-06-29 15:05:40.935 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Via: 1.1 vegur[\r][\n]"
+2020-06-29 15:05:40.935 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Cache-Control: max-age=14400[\r][\n]"
+2020-06-29 15:05:40.935 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "CF-Cache-Status: REVALIDATED[\r][\n]"
+2020-06-29 15:05:40.935 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "cf-request-id: 03a10a1815000035fa43056200000001[\r][\n]"
+2020-06-29 15:05:40.935 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]"
+2020-06-29 15:05:40.935 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Vary: Accept-Encoding[\r][\n]"
+2020-06-29 15:05:40.935 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Server: cloudflare[\r][\n]"
+2020-06-29 15:05:40.935 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "CF-RAY: 5aaeac6cefc735fa-LHR[\r][\n]"
+2020-06-29 15:05:40.935 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Content-Encoding: gzip[\r][\n]"
+2020-06-29 15:05:40.935 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:05:40.936 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+2020-06-29 15:05:40.936 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << HTTP/1.1 200 OK
+2020-06-29 15:05:40.936 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Date: Mon, 29 Jun 2020 09:38:15 GMT
+2020-06-29 15:05:40.936 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Content-Type: application/json; charset=utf-8
+2020-06-29 15:05:40.936 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Transfer-Encoding: chunked
+2020-06-29 15:05:40.936 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Connection: keep-alive
+2020-06-29 15:05:40.936 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Set-Cookie: __cfduid=d5f564c7b5a1c731b69ffc27e43af29001593423495; expires=Wed, 29-Jul-20 09:38:15 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+2020-06-29 15:05:40.936 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << X-Powered-By: Express
+2020-06-29 15:05:40.936 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Access-Control-Allow-Origin: *
+2020-06-29 15:05:40.936 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Etag: W/"172-2ZZzAny/UrOMYxwGqcj81wSK1S4"
+2020-06-29 15:05:40.936 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Via: 1.1 vegur
+2020-06-29 15:05:40.936 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Cache-Control: max-age=14400
+2020-06-29 15:05:40.936 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << CF-Cache-Status: REVALIDATED
+2020-06-29 15:05:40.936 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << cf-request-id: 03a10a1815000035fa43056200000001
+2020-06-29 15:05:40.937 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+2020-06-29 15:05:40.937 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Vary: Accept-Encoding
+2020-06-29 15:05:40.937 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Server: cloudflare
+2020-06-29 15:05:40.937 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << CF-RAY: 5aaeac6cefc735fa-LHR
+2020-06-29 15:05:40.937 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Content-Encoding: gzip
+2020-06-29 15:05:40.942 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Connection can be kept alive indefinitely
+2020-06-29 15:05:40.958 [TestNG-test=Cucumber API Test-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2020-06-29 15:05:40.958 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "113[\r][\n]"
+2020-06-29 15:05:40.959 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3]E[0x8e][0xbb]N[0x3]1[0x10]Ee4[0xb5][0xb5]V[0xa0]A[0xae]x[0x14]|[0x0][0x5]%[0x9a][0xd8]c[0xaf][0x89][0xd7]^[0xc6][0xb3]YB[0x94]G[0x9b] [0xd1][0xdc][0xe2]>t[0xee][0x19][0x3])[0xa1];c[0xe][0xe8]v[0x6]y[0xa2]\[0xd0]a[0xe2]&[0x89][0x87]}Yt|[0x14][0xfe][0x12][0xee]C[0xae]h0f[0xe9][0xfa]Qibt[0xf8]zm[0xa1][0xc1]B[0xff][0xe6][0xf3][0xb6]A[0x83]t$%A[0x87][0xa3][0xea][0xdc][0x9d][0xb5][0xfd]~[0xa0][0x89]~Z[0xa5][0xb5][0xf][0xbe]Mv[0xc9][0x91]<w{S][0xb3]*[0x8b][0xf5]Tx[0xdf]R[0xe0]jww[0xf][0xc3][0xe7][0x9c][0xf0]b[0x90][0xc2][0xf6][0xd2][0xb7]i[0xa6]zB[0x87]oJ[0xba][0xf4][0x97][0x16][0x18][0xde][0x99][0xf][0xe5][0x84][0x6][0x17])[0xb8][0x8d]v-[0xf8][0x16]xh[0x92],[0x1a]T[0xfe]Vt[0xf8][0x4][0xeb]u[0x0][0x95][0xd7]^xcBl~[0xe9][0xb9]&h[0x15]z[0x8b][0xba][0x92]0[0x4]>ri[0xf3][0xc4]U[\r][0xe4][0x1a][0x85][0xba][0xca][0xe2]u[0x11]6[0xa0]#Cg9[0xb2][0x18][0x98]Yb[0x93][0x89][0xaa]g[0x3]T[0xc3]-T[0xf2][0x7][0xe0][0x1a][0xa0]E[0xd0]1[0xd7][0xd4][0x7][0xbc]\~[0x1][0xa9][0xe2]exr[0x1][0x0][0x0]"
+2020-06-29 15:05:40.959 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:05:40.959 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "0[\r][\n]"
+2020-06-29 15:05:40.959 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:05:40.959 [TestNG-test=Cucumber API Test-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2020-06-29 15:05:41.038 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@72a59e
+2020-06-29 15:05:41.038 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Connection can be kept alive indefinitely
+2020-06-29 15:05:41.331 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Get connection for route {s}->https://reqres.in:443
+2020-06-29 15:05:41.331 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to reqres.in:443
+2020-06-29 15:05:42.166 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: ignoreCookies
+2020-06-29 15:05:42.166 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+2020-06-29 15:05:42.166 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+2020-06-29 15:05:42.166 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+2020-06-29 15:05:42.166 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Attempt 1 to execute request
+2020-06-29 15:05:42.166 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Sending request: POST /api/users/ HTTP/1.1
+2020-06-29 15:05:42.166 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "POST /api/users/ HTTP/1.1[\r][\n]"
+2020-06-29 15:05:42.166 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Accept: */*[\r][\n]"
+2020-06-29 15:05:42.166 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Content-Length: 46[\r][\n]"
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Host: reqres.in[\r][\n]"
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Connection: Keep-Alive[\r][\n]"
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)[\r][\n]"
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "[\r][\n]"
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> POST /api/users/ HTTP/1.1
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Accept: */*
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Content-Type: application/json; charset=UTF-8
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Content-Length: 46
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Host: reqres.in
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Connection: Keep-Alive
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+2020-06-29 15:05:42.167 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "{[\r][\n]"
+2020-06-29 15:05:42.168 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "  "name" : "Aadya",[\r][\n]"
+2020-06-29 15:05:42.168 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "  "job" : "student"[\r][\n]"
+2020-06-29 15:05:42.168 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "}"
+2020-06-29 15:05:42.436 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "HTTP/1.1 201 Created[\r][\n]"
+2020-06-29 15:05:42.437 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Date: Mon, 29 Jun 2020 09:38:16 GMT[\r][\n]"
+2020-06-29 15:05:42.437 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2020-06-29 15:05:42.437 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Content-Length: 82[\r][\n]"
+2020-06-29 15:05:42.437 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Connection: keep-alive[\r][\n]"
+2020-06-29 15:05:42.437 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Set-Cookie: __cfduid=dd8178371e63d323768732e8921f59ffb1593423496; expires=Wed, 29-Jul-20 09:38:16 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure[\r][\n]"
+2020-06-29 15:05:42.437 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "X-Powered-By: Express[\r][\n]"
+2020-06-29 15:05:42.437 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2020-06-29 15:05:42.437 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Etag: W/"52-0DgjjLhvwyQzxJMzMLLd9L++vmQ"[\r][\n]"
+2020-06-29 15:05:42.437 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Via: 1.1 vegur[\r][\n]"
+2020-06-29 15:05:42.437 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "CF-Cache-Status: DYNAMIC[\r][\n]"
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "cf-request-id: 03a10a1df8000035b89084d200000001[\r][\n]"
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]"
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Server: cloudflare[\r][\n]"
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "CF-RAY: 5aaeac7658f435b8-LHR[\r][\n]"
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 201 Created
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << HTTP/1.1 201 Created
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Date: Mon, 29 Jun 2020 09:38:16 GMT
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Content-Type: application/json; charset=utf-8
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Content-Length: 82
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Connection: keep-alive
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Set-Cookie: __cfduid=dd8178371e63d323768732e8921f59ffb1593423496; expires=Wed, 29-Jul-20 09:38:16 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << X-Powered-By: Express
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Access-Control-Allow-Origin: *
+2020-06-29 15:05:42.438 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Etag: W/"52-0DgjjLhvwyQzxJMzMLLd9L++vmQ"
+2020-06-29 15:05:42.439 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Via: 1.1 vegur
+2020-06-29 15:05:42.439 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << CF-Cache-Status: DYNAMIC
+2020-06-29 15:05:42.439 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << cf-request-id: 03a10a1df8000035b89084d200000001
+2020-06-29 15:05:42.439 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+2020-06-29 15:05:42.439 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Server: cloudflare
+2020-06-29 15:05:42.439 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << CF-RAY: 5aaeac7658f435b8-LHR
+2020-06-29 15:05:42.439 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Connection can be kept alive indefinitely
+2020-06-29 15:05:42.440 [TestNG-test=Cucumber API Test-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2020-06-29 15:05:42.440 [TestNG-test=Cucumber API Test-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2020-06-29 15:05:42.443 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "{"name":"Aadya","job":"student","id":"336","createdAt":"2020-06-29T09:38:16.739Z"}"
+2020-06-29 15:05:42.444 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@14191f
+2020-06-29 15:05:42.444 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Connection can be kept alive indefinitely
+2020-06-29 15:05:43.221 [TestNG-test=Cucumber API Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 15:05:43.221 [TestNG-test=Cucumber API Test-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  Get and Update User Details
+2020-06-29 15:05:43.222 [TestNG-test=Cucumber API Test-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START Create and Delete User
+2020-06-29 15:05:46.143 [TestNG-test=Cucumber API Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 15:05:46.160 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Get connection for route {s}->https://reqres.in:443
+2020-06-29 15:05:46.160 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to reqres.in:443
+2020-06-29 15:05:47.019 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: ignoreCookies
+2020-06-29 15:05:47.019 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+2020-06-29 15:05:47.019 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+2020-06-29 15:05:47.019 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+2020-06-29 15:05:47.019 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Attempt 1 to execute request
+2020-06-29 15:05:47.019 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Sending request: PUT /api/users/4 HTTP/1.1
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "PUT /api/users/4 HTTP/1.1[\r][\n]"
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Accept: */*[\r][\n]"
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Content-Length: 24[\r][\n]"
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Host: reqres.in[\r][\n]"
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Connection: Keep-Alive[\r][\n]"
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)[\r][\n]"
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "[\r][\n]"
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> PUT /api/users/4 HTTP/1.1
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Accept: */*
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Content-Type: application/json; charset=UTF-8
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Content-Length: 24
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Host: reqres.in
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Connection: Keep-Alive
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)
+2020-06-29 15:05:47.020 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+2020-06-29 15:05:47.021 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "{[\r][\n]"
+2020-06-29 15:05:47.021 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "  "name" : "Aarna"[\r][\n]"
+2020-06-29 15:05:47.021 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "}"
+2020-06-29 15:05:47.265 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "HTTP/1.1 200 OK[\r][\n]"
+2020-06-29 15:05:47.265 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Date: Mon, 29 Jun 2020 09:38:21 GMT[\r][\n]"
+2020-06-29 15:05:47.265 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2020-06-29 15:05:47.265 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Transfer-Encoding: chunked[\r][\n]"
+2020-06-29 15:05:47.265 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Connection: keep-alive[\r][\n]"
+2020-06-29 15:05:47.265 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Set-Cookie: __cfduid=d3eb4c60d4edd35df88b7bcb8d355232b1593423501; expires=Wed, 29-Jul-20 09:38:21 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure[\r][\n]"
+2020-06-29 15:05:47.265 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "X-Powered-By: Express[\r][\n]"
+2020-06-29 15:05:47.265 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Etag: W/"37-38u3C1Cy6y+taT6WDEyR8Esc/U0"[\r][\n]"
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Via: 1.1 vegur[\r][\n]"
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "CF-Cache-Status: DYNAMIC[\r][\n]"
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "cf-request-id: 03a10a30e1000006623720e200000001[\r][\n]"
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]"
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Vary: Accept-Encoding[\r][\n]"
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Server: cloudflare[\r][\n]"
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "CF-RAY: 5aaeac949a8b0662-LHR[\r][\n]"
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Content-Encoding: gzip[\r][\n]"
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << HTTP/1.1 200 OK
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Date: Mon, 29 Jun 2020 09:38:21 GMT
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Content-Type: application/json; charset=utf-8
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Transfer-Encoding: chunked
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Connection: keep-alive
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Set-Cookie: __cfduid=d3eb4c60d4edd35df88b7bcb8d355232b1593423501; expires=Wed, 29-Jul-20 09:38:21 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << X-Powered-By: Express
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Access-Control-Allow-Origin: *
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Etag: W/"37-38u3C1Cy6y+taT6WDEyR8Esc/U0"
+2020-06-29 15:05:47.266 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Via: 1.1 vegur
+2020-06-29 15:05:47.267 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << CF-Cache-Status: DYNAMIC
+2020-06-29 15:05:47.267 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << cf-request-id: 03a10a30e1000006623720e200000001
+2020-06-29 15:05:47.267 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+2020-06-29 15:05:47.267 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Vary: Accept-Encoding
+2020-06-29 15:05:47.267 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Server: cloudflare
+2020-06-29 15:05:47.267 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << CF-RAY: 5aaeac949a8b0662-LHR
+2020-06-29 15:05:47.267 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Content-Encoding: gzip
+2020-06-29 15:05:47.267 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Connection can be kept alive indefinitely
+2020-06-29 15:05:47.267 [TestNG-test=Cucumber API Test-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2020-06-29 15:05:47.267 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "51[\r][\n]"
+2020-06-29 15:05:47.267 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xaa]V[0xca]K[0xcc]MU[0xb2]RrL,[0xca]KT[0xd2]Q*-HI,IMq,Q[0xb2]R2202[0xd0]50[0xd3]5[0xb2][0xc]1[0xb0][0xb4]2[0xb6][0xb0]22[0xd4]35[0xb3][0x88]R[0xaa][0x5][0x0][0x0][0x0][0xff][0xff][0x3][0x0][0xc][0x82]Q[0x8e]7[0x0][0x0][0x0]"
+2020-06-29 15:05:47.267 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:05:47.268 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "0[\r][\n]"
+2020-06-29 15:05:47.268 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:05:47.268 [TestNG-test=Cucumber API Test-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2020-06-29 15:05:47.270 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@1f0367
+2020-06-29 15:05:47.270 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Connection can be kept alive indefinitely
+2020-06-29 15:05:48.045 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Get connection for route {s}->https://reqres.in:443
+2020-06-29 15:05:48.045 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to reqres.in:443
+2020-06-29 15:05:49.187 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: ignoreCookies
+2020-06-29 15:05:49.187 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+2020-06-29 15:05:49.187 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+2020-06-29 15:05:49.187 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+2020-06-29 15:05:49.187 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Attempt 1 to execute request
+2020-06-29 15:05:49.187 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Sending request: DELETE /api/users/5 HTTP/1.1
+2020-06-29 15:05:49.188 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "DELETE /api/users/5 HTTP/1.1[\r][\n]"
+2020-06-29 15:05:49.188 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Accept: */*[\r][\n]"
+2020-06-29 15:05:49.188 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Host: reqres.in[\r][\n]"
+2020-06-29 15:05:49.188 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Connection: Keep-Alive[\r][\n]"
+2020-06-29 15:05:49.188 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)[\r][\n]"
+2020-06-29 15:05:49.188 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-06-29 15:05:49.188 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  >> "[\r][\n]"
+2020-06-29 15:05:49.188 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> DELETE /api/users/5 HTTP/1.1
+2020-06-29 15:05:49.188 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Accept: */*
+2020-06-29 15:05:49.188 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Host: reqres.in
+2020-06-29 15:05:49.188 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Connection: Keep-Alive
+2020-06-29 15:05:49.188 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)
+2020-06-29 15:05:49.188 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+2020-06-29 15:05:49.464 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "HTTP/1.1 204 No Content[\r][\n]"
+2020-06-29 15:05:49.464 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Date: Mon, 29 Jun 2020 09:38:23 GMT[\r][\n]"
+2020-06-29 15:05:49.464 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Content-Length: 0[\r][\n]"
+2020-06-29 15:05:49.464 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Connection: keep-alive[\r][\n]"
+2020-06-29 15:05:49.464 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Set-Cookie: __cfduid=dd0e3da4b5f95ae6f4864907acd6650671593423503; expires=Wed, 29-Jul-20 09:38:23 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure[\r][\n]"
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "X-Powered-By: Express[\r][\n]"
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"[\r][\n]"
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Via: 1.1 vegur[\r][\n]"
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "CF-Cache-Status: DYNAMIC[\r][\n]"
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "cf-request-id: 03a10a395d0000354023b9e200000001[\r][\n]"
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]"
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "Server: cloudflare[\r][\n]"
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "CF-RAY: 5aaeaca22a253540-LHR[\r][\n]"
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 204 No Content
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << HTTP/1.1 204 No Content
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Date: Mon, 29 Jun 2020 09:38:23 GMT
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Content-Length: 0
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Connection: keep-alive
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Set-Cookie: __cfduid=dd0e3da4b5f95ae6f4864907acd6650671593423503; expires=Wed, 29-Jul-20 09:38:23 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << X-Powered-By: Express
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Access-Control-Allow-Origin: *
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+2020-06-29 15:05:49.465 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Via: 1.1 vegur
+2020-06-29 15:05:49.466 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << CF-Cache-Status: DYNAMIC
+2020-06-29 15:05:49.466 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << cf-request-id: 03a10a395d0000354023b9e200000001
+2020-06-29 15:05:49.466 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+2020-06-29 15:05:49.466 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << Server: cloudflare
+2020-06-29 15:05:49.466 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.headers - << CF-RAY: 5aaeaca22a253540-LHR
+2020-06-29 15:05:49.466 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Connection can be kept alive indefinitely
+2020-06-29 15:05:49.466 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@899547
+2020-06-29 15:05:49.466 [TestNG-test=Cucumber API Test-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Connection can be kept alive indefinitely
+2020-06-29 15:05:50.271 [TestNG-test=Cucumber API Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 15:05:50.272 [TestNG-test=Cucumber API Test-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  Create and Delete User
+2020-06-29 15:05:50.333 [Finalizer] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:61908<->104.27.135.11:443 closed
+2020-06-29 15:06:49.497 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-06-29 15:06:49.503 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-06-29 15:06:49.503 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-06-29 15:06:50.813 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-29_Jun_2020_03_06_50_PM
+2020-06-29 15:06:51.290 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START Get and Update User Details
+2020-06-29 15:06:55.239 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 15:06:56.435 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Get connection for route {s}->https://reqres.in:443
+2020-06-29 15:06:56.492 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to reqres.in:443
+2020-06-29 15:06:57.754 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: ignoreCookies
+2020-06-29 15:06:57.756 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+2020-06-29 15:06:57.756 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+2020-06-29 15:06:57.757 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+2020-06-29 15:06:57.757 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Attempt 1 to execute request
+2020-06-29 15:06:57.758 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Sending request: GET /api/users/1 HTTP/1.1
+2020-06-29 15:06:57.758 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "GET /api/users/1 HTTP/1.1[\r][\n]"
+2020-06-29 15:06:57.766 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Accept: */*[\r][\n]"
+2020-06-29 15:06:57.767 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Host: reqres.in[\r][\n]"
+2020-06-29 15:06:57.767 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Connection: Keep-Alive[\r][\n]"
+2020-06-29 15:06:57.767 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)[\r][\n]"
+2020-06-29 15:06:57.767 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-06-29 15:06:57.768 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "[\r][\n]"
+2020-06-29 15:06:57.768 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> GET /api/users/1 HTTP/1.1
+2020-06-29 15:06:57.768 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Accept: */*
+2020-06-29 15:06:57.768 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Host: reqres.in
+2020-06-29 15:06:57.768 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Connection: Keep-Alive
+2020-06-29 15:06:57.768 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)
+2020-06-29 15:06:57.768 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+2020-06-29 15:06:58.000 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "HTTP/1.1 200 OK[\r][\n]"
+2020-06-29 15:06:58.002 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Date: Mon, 29 Jun 2020 09:39:32 GMT[\r][\n]"
+2020-06-29 15:06:58.002 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2020-06-29 15:06:58.002 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Transfer-Encoding: chunked[\r][\n]"
+2020-06-29 15:06:58.002 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Connection: keep-alive[\r][\n]"
+2020-06-29 15:06:58.002 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Set-Cookie: __cfduid=d271ce3775a0238165797ac99fcac921b1593423572; expires=Wed, 29-Jul-20 09:39:32 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure[\r][\n]"
+2020-06-29 15:06:58.003 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "X-Powered-By: Express[\r][\n]"
+2020-06-29 15:06:58.003 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2020-06-29 15:06:58.003 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Etag: W/"172-2ZZzAny/UrOMYxwGqcj81wSK1S4"[\r][\n]"
+2020-06-29 15:06:58.003 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Via: 1.1 vegur[\r][\n]"
+2020-06-29 15:06:58.003 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Cache-Control: max-age=14400[\r][\n]"
+2020-06-29 15:06:58.003 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "CF-Cache-Status: HIT[\r][\n]"
+2020-06-29 15:06:58.003 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Age: 77[\r][\n]"
+2020-06-29 15:06:58.003 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "cf-request-id: 03a10b455d0000066661082200000001[\r][\n]"
+2020-06-29 15:06:58.003 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]"
+2020-06-29 15:06:58.003 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Vary: Accept-Encoding[\r][\n]"
+2020-06-29 15:06:58.003 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Server: cloudflare[\r][\n]"
+2020-06-29 15:06:58.004 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "CF-RAY: 5aaeae4efa8c0666-LHR[\r][\n]"
+2020-06-29 15:06:58.004 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Content-Encoding: gzip[\r][\n]"
+2020-06-29 15:06:58.004 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:06:58.005 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+2020-06-29 15:06:58.005 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << HTTP/1.1 200 OK
+2020-06-29 15:06:58.005 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Date: Mon, 29 Jun 2020 09:39:32 GMT
+2020-06-29 15:06:58.005 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Content-Type: application/json; charset=utf-8
+2020-06-29 15:06:58.005 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Transfer-Encoding: chunked
+2020-06-29 15:06:58.005 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Connection: keep-alive
+2020-06-29 15:06:58.005 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Set-Cookie: __cfduid=d271ce3775a0238165797ac99fcac921b1593423572; expires=Wed, 29-Jul-20 09:39:32 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+2020-06-29 15:06:58.005 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << X-Powered-By: Express
+2020-06-29 15:06:58.005 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Access-Control-Allow-Origin: *
+2020-06-29 15:06:58.005 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Etag: W/"172-2ZZzAny/UrOMYxwGqcj81wSK1S4"
+2020-06-29 15:06:58.005 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Via: 1.1 vegur
+2020-06-29 15:06:58.005 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Cache-Control: max-age=14400
+2020-06-29 15:06:58.005 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << CF-Cache-Status: HIT
+2020-06-29 15:06:58.005 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Age: 77
+2020-06-29 15:06:58.006 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << cf-request-id: 03a10b455d0000066661082200000001
+2020-06-29 15:06:58.006 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+2020-06-29 15:06:58.006 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Vary: Accept-Encoding
+2020-06-29 15:06:58.006 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Server: cloudflare
+2020-06-29 15:06:58.006 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << CF-RAY: 5aaeae4efa8c0666-LHR
+2020-06-29 15:06:58.006 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Content-Encoding: gzip
+2020-06-29 15:06:58.012 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Connection can be kept alive indefinitely
+2020-06-29 15:06:58.033 [TestNG-test=TestNG Test1-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2020-06-29 15:06:58.034 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "113[\r][\n]"
+2020-06-29 15:06:58.034 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3]E[0x8e][0xbb]N[0x3]1[0x10]Ee4[0xb5][0xb5]V[0xa0]A[0xae]x[0x14]|[0x0][0x5]%[0x9a][0xd8]c[0xaf][0x89][0xd7]^[0xc6][0xb3]YB[0x94]G[0x9b] [0xd1][0xdc][0xe2]>t[0xee][0x19][0x3])[0xa1];c[0xe][0xe8]v[0x6]y[0xa2]\[0xd0]a[0xe2]&[0x89][0x87]}Yt|[0x14][0xfe][0x12][0xee]C[0xae]h0f[0xe9][0xfa]Qibt[0xf8]zm[0xa1][0xc1]B[0xff][0xe6][0xf3][0xb6]A[0x83]t$%A[0x87][0xa3][0xea][0xdc][0x9d][0xb5][0xfd]~[0xa0][0x89]~Z[0xa5][0xb5][0xf][0xbe]Mv[0xc9][0x91]<w{S][0xb3]*[0x8b][0xf5]Tx[0xdf]R[0xe0]jww[0xf][0xc3][0xe7][0x9c][0xf0]b[0x90][0xc2][0xf6][0xd2][0xb7]i[0xa6]zB[0x87]oJ[0xba][0xf4][0x97][0x16][0x18][0xde][0x99][0xf][0xe5][0x84][0x6][0x17])[0xb8][0x8d]v-[0xf8][0x16]xh[0x92],[0x1a]T[0xfe]Vt[0xf8][0x4][0xeb]u[0x0][0x95][0xd7]^xcBl~[0xe9][0xb9]&h[0x15]z[0x8b][0xba][0x92]0[0x4]>ri[0xf3][0xc4]U[\r][0xe4][0x1a][0x85][0xba][0xca][0xe2]u[0x11]6[0xa0]#Cg9[0xb2][0x18][0x98]Yb[0x93][0x89][0xaa]g[0x3]T[0xc3]-T[0xf2][0x7][0xe0][0x1a][0xa0]E[0xd0]1[0xd7][0xd4][0x7][0xbc]\~[0x1][0xa9][0xe2]exr[0x1][0x0][0x0]"
+2020-06-29 15:06:58.034 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:06:58.034 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "0[\r][\n]"
+2020-06-29 15:06:58.034 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:06:58.035 [TestNG-test=TestNG Test1-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2020-06-29 15:06:58.123 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@170fdfc
+2020-06-29 15:06:58.124 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Connection can be kept alive indefinitely
+2020-06-29 15:06:58.515 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Get connection for route {s}->https://reqres.in:443
+2020-06-29 15:06:58.515 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to reqres.in:443
+2020-06-29 15:06:59.379 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: ignoreCookies
+2020-06-29 15:06:59.380 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+2020-06-29 15:06:59.380 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+2020-06-29 15:06:59.380 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+2020-06-29 15:06:59.380 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Attempt 1 to execute request
+2020-06-29 15:06:59.380 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Sending request: POST /api/users/ HTTP/1.1
+2020-06-29 15:06:59.380 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "POST /api/users/ HTTP/1.1[\r][\n]"
+2020-06-29 15:06:59.380 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Accept: */*[\r][\n]"
+2020-06-29 15:06:59.380 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2020-06-29 15:06:59.380 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Content-Length: 46[\r][\n]"
+2020-06-29 15:06:59.380 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Host: reqres.in[\r][\n]"
+2020-06-29 15:06:59.380 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Connection: Keep-Alive[\r][\n]"
+2020-06-29 15:06:59.380 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)[\r][\n]"
+2020-06-29 15:06:59.381 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-06-29 15:06:59.381 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "[\r][\n]"
+2020-06-29 15:06:59.381 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> POST /api/users/ HTTP/1.1
+2020-06-29 15:06:59.381 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Accept: */*
+2020-06-29 15:06:59.381 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Content-Type: application/json; charset=UTF-8
+2020-06-29 15:06:59.381 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Content-Length: 46
+2020-06-29 15:06:59.381 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Host: reqres.in
+2020-06-29 15:06:59.381 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Connection: Keep-Alive
+2020-06-29 15:06:59.381 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)
+2020-06-29 15:06:59.381 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+2020-06-29 15:06:59.381 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "{[\r][\n]"
+2020-06-29 15:06:59.381 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "  "name" : "Aadya",[\r][\n]"
+2020-06-29 15:06:59.381 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "  "job" : "student"[\r][\n]"
+2020-06-29 15:06:59.381 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "}"
+2020-06-29 15:06:59.628 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "HTTP/1.1 201 Created[\r][\n]"
+2020-06-29 15:06:59.629 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Date: Mon, 29 Jun 2020 09:39:33 GMT[\r][\n]"
+2020-06-29 15:06:59.629 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2020-06-29 15:06:59.629 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Content-Length: 82[\r][\n]"
+2020-06-29 15:06:59.629 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Connection: keep-alive[\r][\n]"
+2020-06-29 15:06:59.629 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Set-Cookie: __cfduid=dea7818f64203ef9e6cda58c0e89338421593423573; expires=Wed, 29-Jul-20 09:39:33 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure[\r][\n]"
+2020-06-29 15:06:59.629 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "X-Powered-By: Express[\r][\n]"
+2020-06-29 15:06:59.629 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2020-06-29 15:06:59.629 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Etag: W/"52-JWmT84M1YgkKOZHyLl3H1F1i/Ro"[\r][\n]"
+2020-06-29 15:06:59.629 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Via: 1.1 vegur[\r][\n]"
+2020-06-29 15:06:59.629 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "CF-Cache-Status: DYNAMIC[\r][\n]"
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "cf-request-id: 03a10b4b9c0000ce27bc1be200000001[\r][\n]"
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]"
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Server: cloudflare[\r][\n]"
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "CF-RAY: 5aaeae58f9c2ce27-LHR[\r][\n]"
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 201 Created
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << HTTP/1.1 201 Created
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Date: Mon, 29 Jun 2020 09:39:33 GMT
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Content-Type: application/json; charset=utf-8
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Content-Length: 82
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Connection: keep-alive
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Set-Cookie: __cfduid=dea7818f64203ef9e6cda58c0e89338421593423573; expires=Wed, 29-Jul-20 09:39:33 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << X-Powered-By: Express
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Access-Control-Allow-Origin: *
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Etag: W/"52-JWmT84M1YgkKOZHyLl3H1F1i/Ro"
+2020-06-29 15:06:59.630 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Via: 1.1 vegur
+2020-06-29 15:06:59.631 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << CF-Cache-Status: DYNAMIC
+2020-06-29 15:06:59.631 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << cf-request-id: 03a10b4b9c0000ce27bc1be200000001
+2020-06-29 15:06:59.631 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+2020-06-29 15:06:59.631 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Server: cloudflare
+2020-06-29 15:06:59.631 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << CF-RAY: 5aaeae58f9c2ce27-LHR
+2020-06-29 15:06:59.631 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Connection can be kept alive indefinitely
+2020-06-29 15:06:59.632 [TestNG-test=TestNG Test1-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2020-06-29 15:06:59.632 [TestNG-test=TestNG Test1-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2020-06-29 15:06:59.636 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "{"name":"Aadya","job":"student","id":"937","createdAt":"2020-06-29T09:39:33.946Z"}"
+2020-06-29 15:06:59.636 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@2c475a
+2020-06-29 15:06:59.636 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Connection can be kept alive indefinitely
+2020-06-29 15:07:00.508 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 15:07:00.509 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  Get and Update User Details
+2020-06-29 15:07:00.509 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START Create and Delete User
+2020-06-29 15:07:03.770 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 15:07:03.793 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Get connection for route {s}->https://reqres.in:443
+2020-06-29 15:07:03.794 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to reqres.in:443
+2020-06-29 15:07:04.659 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: ignoreCookies
+2020-06-29 15:07:04.659 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+2020-06-29 15:07:04.659 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+2020-06-29 15:07:04.659 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+2020-06-29 15:07:04.659 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Attempt 1 to execute request
+2020-06-29 15:07:04.659 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Sending request: PUT /api/users/4 HTTP/1.1
+2020-06-29 15:07:04.660 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "PUT /api/users/4 HTTP/1.1[\r][\n]"
+2020-06-29 15:07:04.660 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Accept: */*[\r][\n]"
+2020-06-29 15:07:04.660 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2020-06-29 15:07:04.660 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Content-Length: 24[\r][\n]"
+2020-06-29 15:07:04.660 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Host: reqres.in[\r][\n]"
+2020-06-29 15:07:04.660 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Connection: Keep-Alive[\r][\n]"
+2020-06-29 15:07:04.660 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)[\r][\n]"
+2020-06-29 15:07:04.660 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-06-29 15:07:04.660 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "[\r][\n]"
+2020-06-29 15:07:04.660 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> PUT /api/users/4 HTTP/1.1
+2020-06-29 15:07:04.660 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Accept: */*
+2020-06-29 15:07:04.660 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Content-Type: application/json; charset=UTF-8
+2020-06-29 15:07:04.660 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Content-Length: 24
+2020-06-29 15:07:04.660 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Host: reqres.in
+2020-06-29 15:07:04.661 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Connection: Keep-Alive
+2020-06-29 15:07:04.661 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)
+2020-06-29 15:07:04.661 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+2020-06-29 15:07:04.661 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "{[\r][\n]"
+2020-06-29 15:07:04.661 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "  "name" : "Aarna"[\r][\n]"
+2020-06-29 15:07:04.661 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "}"
+2020-06-29 15:07:04.914 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "HTTP/1.1 200 OK[\r][\n]"
+2020-06-29 15:07:04.914 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Date: Mon, 29 Jun 2020 09:39:39 GMT[\r][\n]"
+2020-06-29 15:07:04.914 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2020-06-29 15:07:04.914 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Transfer-Encoding: chunked[\r][\n]"
+2020-06-29 15:07:04.914 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Connection: keep-alive[\r][\n]"
+2020-06-29 15:07:04.915 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Set-Cookie: __cfduid=d3a9f906fc7d7fbaa8301029649bc313d1593423579; expires=Wed, 29-Jul-20 09:39:39 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure[\r][\n]"
+2020-06-29 15:07:04.915 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "X-Powered-By: Express[\r][\n]"
+2020-06-29 15:07:04.915 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2020-06-29 15:07:04.915 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Etag: W/"37-P1zqsXXwbK8TbFUxqN1YVEP9a3M"[\r][\n]"
+2020-06-29 15:07:04.915 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Via: 1.1 vegur[\r][\n]"
+2020-06-29 15:07:04.915 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "CF-Cache-Status: DYNAMIC[\r][\n]"
+2020-06-29 15:07:04.915 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "cf-request-id: 03a10b60370000ce8b30131200000001[\r][\n]"
+2020-06-29 15:07:04.915 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]"
+2020-06-29 15:07:04.915 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Vary: Accept-Encoding[\r][\n]"
+2020-06-29 15:07:04.915 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Server: cloudflare[\r][\n]"
+2020-06-29 15:07:04.915 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "CF-RAY: 5aaeae79fabcce8b-LHR[\r][\n]"
+2020-06-29 15:07:04.915 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Content-Encoding: gzip[\r][\n]"
+2020-06-29 15:07:04.915 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << HTTP/1.1 200 OK
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Date: Mon, 29 Jun 2020 09:39:39 GMT
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Content-Type: application/json; charset=utf-8
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Transfer-Encoding: chunked
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Connection: keep-alive
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Set-Cookie: __cfduid=d3a9f906fc7d7fbaa8301029649bc313d1593423579; expires=Wed, 29-Jul-20 09:39:39 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << X-Powered-By: Express
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Access-Control-Allow-Origin: *
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Etag: W/"37-P1zqsXXwbK8TbFUxqN1YVEP9a3M"
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Via: 1.1 vegur
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << CF-Cache-Status: DYNAMIC
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << cf-request-id: 03a10b60370000ce8b30131200000001
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Vary: Accept-Encoding
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Server: cloudflare
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << CF-RAY: 5aaeae79fabcce8b-LHR
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Content-Encoding: gzip
+2020-06-29 15:07:04.916 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Connection can be kept alive indefinitely
+2020-06-29 15:07:04.917 [TestNG-test=TestNG Test1-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2020-06-29 15:07:04.917 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "4f[\r][\n]"
+2020-06-29 15:07:04.917 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xaa]V[0xca]K[0xcc]MU[0xb2]RrL,[0xca]KT[0xd2]Q*-HI,IMq,Q[0xb2]R2202[0xd0]50[0xd3]5[0xb2][0xc]1[0xb0][0xb4]2[0x6]!=#c[0xa3]([0xa5]Z[0x0][0x0][0x0][0x0][0xff][0xff][0x3][0x0][0x96][\r][0x19]17[0x0][0x0][0x0]"
+2020-06-29 15:07:04.917 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:07:04.917 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "0[\r][\n]"
+2020-06-29 15:07:04.917 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:07:04.917 [TestNG-test=TestNG Test1-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2020-06-29 15:07:04.920 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@d2cafb
+2020-06-29 15:07:04.920 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Connection can be kept alive indefinitely
+2020-06-29 15:07:04.931 [Finalizer] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:61967<->104.27.134.11:443 closed
+2020-06-29 15:07:05.647 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Get connection for route {s}->https://reqres.in:443
+2020-06-29 15:07:05.647 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to reqres.in:443
+2020-06-29 15:07:06.486 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: ignoreCookies
+2020-06-29 15:07:06.486 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+2020-06-29 15:07:06.486 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+2020-06-29 15:07:06.486 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+2020-06-29 15:07:06.486 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Attempt 1 to execute request
+2020-06-29 15:07:06.486 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Sending request: DELETE /api/users/5 HTTP/1.1
+2020-06-29 15:07:06.486 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "DELETE /api/users/5 HTTP/1.1[\r][\n]"
+2020-06-29 15:07:06.486 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Accept: */*[\r][\n]"
+2020-06-29 15:07:06.487 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Host: reqres.in[\r][\n]"
+2020-06-29 15:07:06.487 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Connection: Keep-Alive[\r][\n]"
+2020-06-29 15:07:06.487 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)[\r][\n]"
+2020-06-29 15:07:06.487 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-06-29 15:07:06.487 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  >> "[\r][\n]"
+2020-06-29 15:07:06.487 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> DELETE /api/users/5 HTTP/1.1
+2020-06-29 15:07:06.487 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Accept: */*
+2020-06-29 15:07:06.487 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Host: reqres.in
+2020-06-29 15:07:06.487 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Connection: Keep-Alive
+2020-06-29 15:07:06.487 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_231)
+2020-06-29 15:07:06.487 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+2020-06-29 15:07:06.738 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "HTTP/1.1 204 No Content[\r][\n]"
+2020-06-29 15:07:06.738 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Date: Mon, 29 Jun 2020 09:39:41 GMT[\r][\n]"
+2020-06-29 15:07:06.738 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Content-Length: 0[\r][\n]"
+2020-06-29 15:07:06.738 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Connection: keep-alive[\r][\n]"
+2020-06-29 15:07:06.738 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Set-Cookie: __cfduid=d52cccd68b86cc81f4ceca1fc805a9a0a1593423581; expires=Wed, 29-Jul-20 09:39:41 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure[\r][\n]"
+2020-06-29 15:07:06.738 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "X-Powered-By: Express[\r][\n]"
+2020-06-29 15:07:06.739 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+2020-06-29 15:07:06.739 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"[\r][\n]"
+2020-06-29 15:07:06.739 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Via: 1.1 vegur[\r][\n]"
+2020-06-29 15:07:06.739 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "CF-Cache-Status: DYNAMIC[\r][\n]"
+2020-06-29 15:07:06.739 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "cf-request-id: 03a10b67650000dbd3af841200000001[\r][\n]"
+2020-06-29 15:07:06.739 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]"
+2020-06-29 15:07:06.739 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "Server: cloudflare[\r][\n]"
+2020-06-29 15:07:06.739 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "CF-RAY: 5aaeae856bcddbd3-LHR[\r][\n]"
+2020-06-29 15:07:06.739 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.wire -  << "[\r][\n]"
+2020-06-29 15:07:06.739 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 204 No Content
+2020-06-29 15:07:06.739 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << HTTP/1.1 204 No Content
+2020-06-29 15:07:06.739 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Date: Mon, 29 Jun 2020 09:39:41 GMT
+2020-06-29 15:07:06.739 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Content-Length: 0
+2020-06-29 15:07:06.740 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Connection: keep-alive
+2020-06-29 15:07:06.740 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Set-Cookie: __cfduid=d52cccd68b86cc81f4ceca1fc805a9a0a1593423581; expires=Wed, 29-Jul-20 09:39:41 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+2020-06-29 15:07:06.740 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << X-Powered-By: Express
+2020-06-29 15:07:06.740 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Access-Control-Allow-Origin: *
+2020-06-29 15:07:06.740 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+2020-06-29 15:07:06.740 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Via: 1.1 vegur
+2020-06-29 15:07:06.740 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << CF-Cache-Status: DYNAMIC
+2020-06-29 15:07:06.740 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << cf-request-id: 03a10b67650000dbd3af841200000001
+2020-06-29 15:07:06.740 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+2020-06-29 15:07:06.740 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << Server: cloudflare
+2020-06-29 15:07:06.740 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.headers - << CF-RAY: 5aaeae856bcddbd3-LHR
+2020-06-29 15:07:06.740 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.client.DefaultHttpClient - Connection can be kept alive indefinitely
+2020-06-29 15:07:06.740 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@11f42e3
+2020-06-29 15:07:06.740 [TestNG-test=TestNG Test1-1] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Connection can be kept alive indefinitely
+2020-06-29 15:07:07.545 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 15:07:07.545 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  Create and Delete User
+2020-06-29 15:07:07.546 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2020-06-29 15:07:11.084 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 15:07:17.276 [Finalizer] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:61984<->104.27.134.11:443 closed
+2020-06-29 15:07:19.778 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 15:07:19.779 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2020-06-29 15:07:19.780 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - START User Should be able to login with valid credentials
+2020-06-29 15:07:23.080 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-06-29 15:07:35.561 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-06-29 15:07:35.562 [TestNG-test=TestNG Test1-1] INFO  com.maveric.core.cucumber.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2020-06-29 15:07:35.908 [Finalizer] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:61983<->104.27.134.11:443 closed
+2020-06-29 15:07:35.908 [Finalizer] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:61962<->104.27.134.11:443 closed

@@ -1,0 +1,28 @@
+Request : GET
+URI : https://reqres.in/api/users/1
+Headers : 
+Accept=*/*
+Params : 
+Response : 
+HTTP/1.1 200 OK
+Headers : 
+Date=Mon, 29 Jun 2020 09:39:32 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Set-Cookie=__cfduid=d271ce3775a0238165797ac99fcac921b1593423572; expires=Wed, 29-Jul-20 09:39:32 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"172-2ZZzAny/UrOMYxwGqcj81wSK1S4"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=77
+cf-request-id=03a10b455d0000066661082200000001
+Expect-CT=max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=5aaeae4efa8c0666-LHR
+Content-Encoding=gzip
+Body : 
+{"data":{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}

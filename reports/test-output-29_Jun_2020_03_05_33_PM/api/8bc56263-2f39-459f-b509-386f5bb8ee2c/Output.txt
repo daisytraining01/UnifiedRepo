@@ -1,0 +1,25 @@
+Request : POST
+URI : https://reqres.in/api/users/
+Headers : 
+Accept=*/*
+Content-Type=application/json; charset=UTF-8
+Params : 
+Response : 
+HTTP/1.1 201 Created
+Headers : 
+Date=Mon, 29 Jun 2020 09:38:16 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=82
+Connection=keep-alive
+Set-Cookie=__cfduid=dd8178371e63d323768732e8921f59ffb1593423496; expires=Wed, 29-Jul-20 09:38:16 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"52-0DgjjLhvwyQzxJMzMLLd9L++vmQ"
+Via=1.1 vegur
+CF-Cache-Status=DYNAMIC
+cf-request-id=03a10a1df8000035b89084d200000001
+Expect-CT=max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server=cloudflare
+CF-RAY=5aaeac7658f435b8-LHR
+Body : 
+{"name":"Aadya","job":"student","id":"336","createdAt":"2020-06-29T09:38:16.739Z"}

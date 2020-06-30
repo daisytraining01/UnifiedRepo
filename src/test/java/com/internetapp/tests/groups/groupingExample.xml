@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Regression Test Suite" >
+
+	<test name="Grouping Scenarios">
+	
+		<groups>
+			<run>
+				<include name = "Breakfast"/>
+				<exclude name= "Food"></exclude>
+			</run>
+		</groups>
+	
+		<classes>
+			<class name="com.internetapp.tests.groups.GroupingExample"></class>
+		</classes>
+	
+	</test>
+	
+</suite>

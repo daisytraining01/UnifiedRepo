@@ -1,0 +1,236 @@
+<html>
+ <head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style type="text/css">.row{margin-right:0px; margin-left:0px;} .skills{text-align:center;padding-right:20px;line-height:40px;color:white;margin-bottom:2px}.passed{background-color:green}.failed{background-color:#f44336}.skipped{background-color:#808080}.testName{background-color:#406084}.total{background-color:#a7856b}.executionTime{background-color:#e59866}.padding-logs{padding:1cm}body{padding:0;font:14px "Calibri",Lucida Grande;line-height:1.5}.checkbox{padding-left:0;margin-top:-5px}.checkbox label{display:inline-block;position:relative;padding-left:5px}.checkbox label::before{content:"";display:inline-block;position:absolute;width:17px;height:17px;left:0;margin-left:-20px;border:1px solid #7f7fff;border-radius:3px;background-color:#fff;-webkit-transition:border .15s ease-in-out,color .15s ease-in-out;-o-transition:border .15s ease-in-out,color .15s ease-in-out;transition:border .15s ease-in-out,color .15s ease-in-out}.checkbox label::after{display:inline-block;position:absolute;width:16px;height:16px;left:0;top:0;margin-left:-10px;padding-left:3px;padding-top:1px;font-size:11px;color:#555}.checkbox input[type="checkbox"]{opacity:0}.checkbox input[type="checkbox"]:focus+label::before{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.checkbox input[type="checkbox"]:checked+label::after{font-family:"FontAwesome";content:"\f00c";margin-left:-20px}.checkbox input[type="checkbox"]:disabled+label{opacity:.65}.checkbox input[type="checkbox"]:disabled+label::before{background-color:#eee;cursor:not-allowed}.checkbox.checkbox-circle+label::before{border-radius:50%}.checkbox.checkbox-inline{margin-top:0}.checkbox-primary input[type="checkbox"]:checked+label::before{background-color:#428bca;border-color:#428bca}.checkbox-primary input[type="checkbox"]:checked+label::after{color:#fff}.checkbox-danger input[type="checkbox"]:checked+label::before{background-color:#d9534f;border-color:#d9534f}.checkbox-danger input[type="checkbox"]:checked+label::after{color:#fff}.checkbox-info input[type="checkbox"]:checked+label::before{background-color:#5bc0de;border-color:#5bc0de}.checkbox-info input[type="checkbox"]:checked+label::after{color:#fff}.checkbox-warning input[type="checkbox"]:checked+label::before{background-color:#f0ad4e;border-color:#f0ad4e}.checkbox-warning input[type="checkbox"]:checked+label::after{color:#fff}.checkbox-success input[type="checkbox"]:checked+label::before{background-color:#5cb85c;border-color:#5cb85c}.checkbox-success input[type="checkbox"]:checked+label::after{color:#fff}.box{color:black;padding:4px;margin-top:4px;border-bottom:1px double;border-top:1px double;border-left: 1px double;border-right: 1px double;border-color:gray}a{font-color:blue}.red{background:#ffb699}.green{background:#90ee90}.yellow{background:#ff6}.blue{background:#f0e68c}#mainTable{border-collapse:collapse}*{font-family:Tahoma,Calibri Light!important}</style> 
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+ </head>
+ <body background="screenshots/Background.png">
+  <script language="javascript"> function toggle(id,id2) {      var ele = document.getElementById(id);      var text = document.getElementById(id2);      if(ele.style.display == "block") {            ele.style.display = "none";            text.innerHTML = "[+]";      }      else {            ele.style.display = "block";            text.innerHTML = "[-]";      }}</script>
+  <script type="text/javascript">$('#fails').show();$('#pass').show();$('#skip').show();$(document).ready(function(){$("input:checkbox").change(function() {$.each($('input[type="checkbox"]'), function (key, value) {var inputValue = $(this).attr("value");var ischecked= $(this).is(':checked');if(ischecked){$("." + inputValue).show();}else{$("." + inputValue).hide();}});});});</script>
+  <meta charset="utf-8">
+  <title>Automation Report</title>
+  <style type="text/css">body{margin:5px;} .box{color: black; padding: 4px; margin-top: 4px;  border-bottom: 1px double;  border-top: 1px double; border-color:gray;}.red{ background: #ffb699; }.green{ background: #90EE90; }.yellow{ background: #FFFF66; }.blue{ background: #F0E68C; }#mainTable {border-collapse: collapse;}* {font-family: Tahoma, Calibri Light !important;}</style>
+  <div class="\&quot;row\&quot;">
+   <table border="0" style="width:100%">
+    <tbody>
+     <tr>
+      <td>
+       <table>
+        <tbody>
+         <tr>
+          <td align="left" width="10%"><img style="margin:5px;" src="screenshots/MavericLogo.png" border="2">&nbsp;</td>
+         </tr>
+        </tbody>
+       </table></td>
+      <td align="center"><b>
+        <left>
+         <font style="font-size: 25px;"> Test Application Automation Results </font>
+        </left></b></td>
+      <td>
+       <div name="jenkin_compiler_name" align="right">
+        <table style="background-color:rgba(0, 0, 0, 0);">
+         <tbody>
+          <tr>
+           <td><b>
+             <div id="runCompletedOn" class="label label-danger">
+              Mon Jun 29 15:07:35 IST 2020
+             </div><b></b></b></td>
+          </tr>
+         </tbody>
+        </table>
+       </div></td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="row">
+   <div class="col-xs-3 skills testName ">
+    Environment : <span id="environment">TestNG Suite</span>
+   </div>
+   <div class="col-xs-3 skills total ">
+    Total Test Cases : <span id="totalTestCases">2</span>
+   </div>
+   <div class="col-xs-3 skills passed">
+    Execution Time :<span id="executionTime">00:00:44</span>
+   </div>
+   <div class="col-xs-3 skills executionTime">
+    Browser : <span id="browser">chrome</span>
+   </div>
+   <div class="col-xs-3 skills passed">
+    Passed Test Cases : <span id="passedCount">2</span>
+   </div>
+   <div class="col-xs-3 skills failed">
+    Failed Test Cases :<span id="failedCount">0</span>
+   </div>
+   <div class="col-xs-3 skills testName">
+    Retry Count : 0<span id="retryCount"></span>
+   </div>
+   <div class="col-xs-3 skills total">
+    Groups : <span id="keywords">@web</span>
+   </div>
+  </div>
+  <br>
+  <div class="row">
+   <h4 class="col-xs-12 col-sm-6 pull-left"><b><font color="#24468D">Report Details</font></b></h4>
+   <div class="col-xs-12 col-sm-6">
+    <div style="margin-left: 50%;">
+     <div class="col-xs-4 col-sm-offset-3 col-sm-3 checkbox checkbox-success">
+      <input type="checkbox" id="pass" value="green" name="checkbox" checked><label for="pass">Passed</label>
+     </div>
+     <div class="col-xs-4 col-sm-3 checkbox checkbox-danger">
+      <input type="checkbox" id="fails" value="red" name="checkbox" checked><label for="fails">Failed</label>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="pass" class="blue box padding-logs">
+   Feature : API demo Feature&nbsp;<a style="font-size:13px;vertical-align:2px;" id="API demo Feature_passed_0" href="javascript:toggle('API demo Feature_passed','API demo Feature_passed_0');"> [+]</a><a style="position: absolute;right: 9;color:black;"> Total Scenarios : 2, Passed Scenarios : 2, Failed Scenarios : 0</a>
+   <div id="API demo Feature_passed" style="display: none; background-color: #F0E68C; margin-left: 0.5cm; ">
+    <div class="messages">
+     <div id="pass" class="green box padding-logs">
+      Scenario : Get and Update User Details&nbsp;<a style="font-size:13px;vertical-align:2px;" id="Get and Update User Details_passed_01507357993" href="javascript:toggle('Get and Update User Details_passed_1507357993','Get and Update User Details_passed_01507357993');"> [+]</a>
+      <div id="Get and Update User Details_passed_1507357993" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+       <div class="messages">
+        <div id="pass" class="green box padding-logs">
+         Given I get User Details<a style="font-size:13px;vertical-align:2px;" id="step11_passed_01507357991" href="javascript:toggle('step11_passed1507357991','step11_passed_01507357991');"> [+]</a>
+         <div id="step11_passed1507357991" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+          <div class="messages">
+           29-Jun-2020 03:06:55 PM : this is a ger user test
+           <br>29-Jun-2020 03:06:58 PM : <a target="_blank" href=".//api/c99824a4-09ec-402e-9c3e-30f8404306f9/Output.txt">API Call</a>
+           <br>
+          </div>
+         </div>
+        </div>
+        <div id="pass" class="green box padding-logs">
+         Then I create user<a style="font-size:13px;vertical-align:2px;" id="step12_passed_01507357992" href="javascript:toggle('step12_passed1507357992','step12_passed_01507357992');"> [+]</a>
+         <div id="step12_passed1507357992" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+          <div class="messages">
+           29-Jun-2020 03:06:58 PM : this is a create user test
+           <br>29-Jun-2020 03:06:59 PM : <a target="_blank" href=".//api/f3a6b135-08ef-4771-8d0e-c2f8944feaf6/Output.txt">API Call</a>
+           <br>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div id="pass" class="green box padding-logs">
+      Scenario : Create and Delete User&nbsp;<a style="font-size:13px;vertical-align:2px;" id="Create and Delete User_passed_01507358006" href="javascript:toggle('Create and Delete User_passed_1507358006','Create and Delete User_passed_01507358006');"> [+]</a>
+      <div id="Create and Delete User_passed_1507358006" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+       <div class="messages">
+        <div id="pass" class="green box padding-logs">
+         Then I update User Details<a style="font-size:13px;vertical-align:2px;" id="step21_passed_01507357994" href="javascript:toggle('step21_passed1507357994','step21_passed_01507357994');"> [+]</a>
+         <div id="step21_passed1507357994" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+          <div class="messages">
+           29-Jun-2020 03:07:03 PM : this is a update user test
+           <br>29-Jun-2020 03:07:04 PM : <a target="_blank" href=".//api/dcbac175-b1bf-4ca8-9374-29fb1ea2c23f/Output.txt">API Call</a>
+           <br>
+          </div>
+         </div>
+        </div>
+        <div id="pass" class="green box padding-logs">
+         And I Delete User<a style="font-size:13px;vertical-align:2px;" id="step22_passed_01507358005" href="javascript:toggle('step22_passed1507358005','step22_passed_01507358005');"> [+]</a>
+         <div id="step22_passed1507358005" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+          <div class="messages">
+           29-Jun-2020 03:07:05 PM : this is a delete user test
+           <br>29-Jun-2020 03:07:06 PM : <a target="_blank" href=".//api/91a74f75-6dd5-4826-bd24-7d40adf7efec/Output.txt">API Call</a>
+           <br>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="pass" class="blue box padding-logs">
+   Feature : Demo Feature&nbsp;<a style="font-size:13px;vertical-align:2px;" id="Demo Feature_passed_0" href="javascript:toggle('Demo Feature_passed','Demo Feature_passed_0');"> [+]</a><a style="position: absolute;right: 9;color:black;"> Total Scenarios : 2, Passed Scenarios : 2, Failed Scenarios : 0</a>
+   <div id="Demo Feature_passed" style="display: none; background-color: #F0E68C; margin-left: 0.5cm; ">
+    <div class="messages">
+     <div id="pass" class="green box padding-logs">
+      Scenario : User Should Not be able to login with invalid credentials&nbsp;<a style="font-size:13px;vertical-align:2px;" id="User Should Not be able to login with invalid credentials_passed_015073580110" href="javascript:toggle('User Should Not be able to login with invalid credentials_passed_15073580110','User Should Not be able to login with invalid credentials_passed_015073580110');"> [+]</a>
+      <div id="User Should Not be able to login with invalid credentials_passed_15073580110" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+       <div class="messages">
+        <div id="pass" class="green box padding-logs">
+         Given I am on the Login page "https://the-internet.herokuapp.com/login"<a style="font-size:13px;vertical-align:2px;" id="step11_passed_01507358017" href="javascript:toggle('step11_passed1507358017','step11_passed_01507358017');"> [+]</a>
+         <div id="step11_passed1507358017" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+          <div class="messages">
+           29-Jun-2020 03:07:17 PM : <a target="_blank" href="screenshots/screenshot_1.png">login </a>
+           <br>29-Jun-2020 03:07:17 PM : sample log
+           <br>
+          </div>
+         </div>
+        </div>
+        <div id="pass" class="green box padding-logs">
+         Then I enter username "boo" and password "foo"<a style="font-size:13px;vertical-align:2px;" id="step12_passed_01507358018" href="javascript:toggle('step12_passed1507358018','step12_passed_01507358018');"> [+]</a>
+         <div id="step12_passed1507358018" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+          <div class="messages">
+           29-Jun-2020 03:07:18 PM : <a target="_blank" href="screenshots/screenshot_2.png">login successful </a>
+           <br>
+          </div>
+         </div>
+        </div>
+        <div id="pass" class="green box padding-logs">
+         And I Assert the Message "Your username is invalid!"<a style="font-size:13px;vertical-align:2px;" id="step13_passed_01507358019" href="javascript:toggle('step13_passed1507358019','step13_passed_01507358019');"> [+]</a>
+         <div id="step13_passed1507358019" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+          <div class="messages">
+           29-Jun-2020 03:07:18 PM : <a target="_blank" href="screenshots/screenshot_3.png">assert </a>
+           <br>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div id="pass" class="green box padding-logs">
+      Scenario : User Should be able to login with valid credentials&nbsp;<a style="font-size:13px;vertical-align:2px;" id="User Should be able to login with valid credentials_passed_015073580115" href="javascript:toggle('User Should be able to login with valid credentials_passed_15073580115','User Should be able to login with valid credentials_passed_015073580115');"> [+]</a>
+      <div id="User Should be able to login with valid credentials_passed_15073580115" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+       <div class="messages">
+        <div id="pass" class="green box padding-logs">
+         Given I am on the Login page "https://the-internet.herokuapp.com/login"<a style="font-size:13px;vertical-align:2px;" id="step21_passed_015073580111" href="javascript:toggle('step21_passed15073580111','step21_passed_015073580111');"> [+]</a>
+         <div id="step21_passed15073580111" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+          <div class="messages">
+           29-Jun-2020 03:07:31 PM : <a target="_blank" href="screenshots/screenshot_4.png">login </a>
+           <br>29-Jun-2020 03:07:31 PM : sample log
+           <br>
+          </div>
+         </div>
+        </div>
+        <div id="pass" class="green box padding-logs">
+         Then I enter username "tomsmith" and password "SuperSecretPassword!"<a style="font-size:13px;vertical-align:2px;" id="step22_passed_015073580112" href="javascript:toggle('step22_passed15073580112','step22_passed_015073580112');"> [+]</a>
+         <div id="step22_passed15073580112" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+          <div class="messages">
+           29-Jun-2020 03:07:33 PM : <a target="_blank" href="screenshots/screenshot_5.png">login successful </a>
+           <br>
+          </div>
+         </div>
+        </div>
+        <div id="pass" class="green box padding-logs">
+         And I Assert the Message "You logged into a secure area!"<a style="font-size:13px;vertical-align:2px;" id="step23_passed_015073580113" href="javascript:toggle('step23_passed15073580113','step23_passed_015073580113');"> [+]</a>
+         <div id="step23_passed15073580113" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+          <div class="messages">
+           29-Jun-2020 03:07:33 PM : <a target="_blank" href="screenshots/screenshot_6.png">assert </a>
+           <br>
+          </div>
+         </div>
+        </div>
+        <div id="pass" class="green box padding-logs">
+         Then I logout of the application<a style="font-size:13px;vertical-align:2px;" id="step24_passed_015073580114" href="javascript:toggle('step24_passed15073580114','step24_passed_015073580114');"> [+]</a>
+         <div id="step24_passed15073580114" style="display: none; background-color: #bdf5bd; margin-left: 0.5cm; ">
+          <div class="messages">
+           29-Jun-2020 03:07:34 PM : <a target="_blank" href="screenshots/screenshot_7.png">logout </a>
+           <br>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

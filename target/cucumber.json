@@ -1,0 +1,421 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-06-29T09:36:55.538Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.maveric.core.cucumber.CucumberListener.before(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Get and Update User Details",
+        "description": "",
+        "id": "api-demo-feature;get-and-update-user-details",
+        "after": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.maveric.core.cucumber.CucumberListener.after(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "29-Jun-2020 03:06:55 PM : this is a ger user test",
+              "29-Jun-2020 03:06:58 PM : \u003ca target\u003d_blank href\u003d.//api/c99824a4-09ec-402e-9c3e-30f8404306f9/Output.txt\u003eAPI Call\u003c/a\u003e"
+            ],
+            "result": {
+              "duration": 2575000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I get User Details",
+            "match": {
+              "location": "com.api.stepDefs.MyStepDefs.\u003cinit\u003e(MyStepDefs.java:17)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "output": [
+              "29-Jun-2020 03:06:58 PM : this is a create user test",
+              "29-Jun-2020 03:06:59 PM : \u003ca target\u003d_blank href\u003d.//api/f3a6b135-08ef-4771-8d0e-c2f8944feaf6/Output.txt\u003eAPI Call\u003c/a\u003e"
+            ],
+            "result": {
+              "duration": 1507000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I create user",
+            "match": {
+              "location": "com.api.stepDefs.MyStepDefs.\u003cinit\u003e(MyStepDefs.java:12)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@api"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-06-29T09:37:03.776Z",
+        "before": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.maveric.core.cucumber.CucumberListener.before(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Create and Delete User",
+        "description": "",
+        "id": "api-demo-feature;create-and-delete-user",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.maveric.core.cucumber.CucumberListener.after(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "29-Jun-2020 03:07:03 PM : this is a update user test",
+              "29-Jun-2020 03:07:04 PM : \u003ca target\u003d_blank href\u003d.//api/dcbac175-b1bf-4ca8-9374-29fb1ea2c23f/Output.txt\u003eAPI Call\u003c/a\u003e"
+            ],
+            "result": {
+              "duration": 1853000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I update User Details",
+            "match": {
+              "location": "com.api.stepDefs.MyStepDefs.\u003cinit\u003e(MyStepDefs.java:21)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "output": [
+              "29-Jun-2020 03:07:05 PM : this is a delete user test",
+              "29-Jun-2020 03:07:06 PM : \u003ca target\u003d_blank href\u003d.//api/91a74f75-6dd5-4826-bd24-7d40adf7efec/Output.txt\u003eAPI Call\u003c/a\u003e"
+            ],
+            "result": {
+              "duration": 1117000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I Delete User",
+            "match": {
+              "location": "com.api.stepDefs.MyStepDefs.\u003cinit\u003e(MyStepDefs.java:24)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@api"
+          }
+        ]
+      }
+    ],
+    "name": "API demo Feature",
+    "description": "",
+    "id": "api-demo-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/API_DEMO.feature",
+    "tags": [
+      {
+        "name": "@api",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "login",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "29-Jun-2020 03:07:17 PM : \u003ca target\u003d_blank href\u003dscreenshots/screenshot_1.png\u003elogin  \u003c/a\u003e",
+              "29-Jun-2020 03:07:17 PM : sample log"
+            ],
+            "result": {
+              "duration": 6199000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the Login page \"https://the-internet.herokuapp.com/login\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://the-internet.herokuapp.com/login\"",
+                  "offset": 23
+                }
+              ],
+              "location": "com.internetapp.stepDefs.StepDefs.\u003cinit\u003e(StepDefs.java:12)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-06-29T09:37:11.097Z",
+        "before": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.maveric.core.cucumber.CucumberListener.before(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "User Should Not be able to login with invalid credentials",
+        "description": "",
+        "id": "demo-feature;user-should-not-be-able-to-login-with-invalid-credentials",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.maveric.core.cucumber.CucumberListener.after(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "29-Jun-2020 03:07:18 PM : \u003ca target\u003d_blank href\u003dscreenshots/screenshot_2.png\u003elogin successful  \u003c/a\u003e"
+            ],
+            "result": {
+              "duration": 1354000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter username \"boo\" and password \"foo\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"boo\"",
+                  "offset": 17
+                },
+                {
+                  "val": "\"foo\"",
+                  "offset": 36
+                }
+              ],
+              "location": "com.internetapp.stepDefs.StepDefs.\u003cinit\u003e(StepDefs.java:16)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "output": [
+              "29-Jun-2020 03:07:18 PM : \u003ca target\u003d_blank href\u003dscreenshots/screenshot_3.png\u003eassert  \u003c/a\u003e"
+            ],
+            "result": {
+              "duration": 315000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I Assert the Message \"Your username is invalid!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Your username is invalid!\"",
+                  "offset": 21
+                }
+              ],
+              "location": "com.internetapp.stepDefs.StepDefs.\u003cinit\u003e(StepDefs.java:22)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@web"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "login",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "29-Jun-2020 03:07:31 PM : \u003ca target\u003d_blank href\u003dscreenshots/screenshot_4.png\u003elogin  \u003c/a\u003e",
+              "29-Jun-2020 03:07:31 PM : sample log"
+            ],
+            "result": {
+              "duration": 8587000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the Login page \"https://the-internet.herokuapp.com/login\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://the-internet.herokuapp.com/login\"",
+                  "offset": 23
+                }
+              ],
+              "location": "com.internetapp.stepDefs.StepDefs.\u003cinit\u003e(StepDefs.java:12)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-06-29T09:37:23.085Z",
+        "before": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.maveric.core.cucumber.CucumberListener.before(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "User Should be able to login with valid credentials",
+        "description": "",
+        "id": "demo-feature;user-should-be-able-to-login-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.maveric.core.cucumber.CucumberListener.after(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "29-Jun-2020 03:07:33 PM : \u003ca target\u003d_blank href\u003dscreenshots/screenshot_5.png\u003elogin successful  \u003c/a\u003e"
+            ],
+            "result": {
+              "duration": 1549000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I enter username \"tomsmith\" and password \"SuperSecretPassword!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"tomsmith\"",
+                  "offset": 17
+                },
+                {
+                  "val": "\"SuperSecretPassword!\"",
+                  "offset": 41
+                }
+              ],
+              "location": "com.internetapp.stepDefs.StepDefs.\u003cinit\u003e(StepDefs.java:16)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "output": [
+              "29-Jun-2020 03:07:33 PM : \u003ca target\u003d_blank href\u003dscreenshots/screenshot_6.png\u003eassert  \u003c/a\u003e"
+            ],
+            "result": {
+              "duration": 333000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I Assert the Message \"You logged into a secure area!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"You logged into a secure area!\"",
+                  "offset": 21
+                }
+              ],
+              "location": "com.internetapp.stepDefs.StepDefs.\u003cinit\u003e(StepDefs.java:22)"
+            },
+            "keyword": "And "
+          },
+          {
+            "output": [
+              "29-Jun-2020 03:07:34 PM : \u003ca target\u003d_blank href\u003dscreenshots/screenshot_7.png\u003elogout  \u003c/a\u003e"
+            ],
+            "result": {
+              "duration": 1129000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I logout of the application",
+            "match": {
+              "location": "com.internetapp.stepDefs.StepDefs.\u003cinit\u003e(StepDefs.java:26)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@web"
+          }
+        ]
+      }
+    ],
+    "name": "Demo Feature",
+    "description": "",
+    "id": "demo-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/WEB_DEMO.feature",
+    "tags": [
+      {
+        "name": "@web",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
