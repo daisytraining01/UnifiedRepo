@@ -19,7 +19,7 @@
         <surefire.version>2.22.1</surefire.version>
         <wdm.version>4.0.0</wdm.version>
         <appium.version>7.3.0</appium.version>
-        <log4j.version>2.13.3</log4j.version>
+        <log4j.version>2.17.1</log4j.version>
         <bslocal.version>1.0.3</bslocal.version>
         <sauce.version>2.1.23</sauce.version>
         <sauce.bindings.version>1.0-beta-5</sauce.bindings.version>
